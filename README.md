@@ -6,6 +6,8 @@ Versions 1.0 - 1.5:
 • 60–79: A transition from green to cyan, blue, and violet.
 • 80–99: Magenta, shades of pink, and other vibrant colors.
 New versions:
+Added support for HEX values ​​from C++ and C#
+NOT HEX:
 • 000 – 040: A perfect range of grays, from deepest black (000) to pure white (040). Excellent for creating shadows.
 • 041 – 080: A vibrant, fiery transition from bright red to rich orange and yellow.
 • 081 – 120: A smooth gradient shifting from yellow to lush green and lime.
