@@ -1,1 +1,1 @@
-This is an image decompiler written in C++, based on BuildImage.exe. Supported formats: .png, .jpg, .jpeg, .bmp, .webp. It does NOT support any other formats; otherwise, it will report a format error.
+This is an image decompiler written in C++, based on BuildImage.exe. Old versions supported formats: .png, .jpg, .jpeg, .bmp, .webp, .ico, .gif, .tiff, .svg. It does NOT support any other formats; otherwise, it will report a format error.
