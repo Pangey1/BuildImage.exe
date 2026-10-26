@@ -1,0 +1,1 @@
+Added support for decompiling multiple files simultaneously; example: DecompilerImageForCreationOfPictures.exe -i pic1.png,pic2.bmp,pic3.jpg -o code1.txt,code2.txt,code3.txt
