@@ -1,0 +1,2 @@
+name TestGif
+load "Image.png" wait 500, load "Image1.jpg" wait 400 end.
