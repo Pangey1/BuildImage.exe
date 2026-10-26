@@ -1,1 +1,0 @@
-Added support for building multiple files at once; example: BuildImage.exe -i Img1.txt,Image2.txt -o MbrStatic.bmp,Pic2.bmp
