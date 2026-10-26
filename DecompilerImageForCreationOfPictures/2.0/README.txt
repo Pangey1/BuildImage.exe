@@ -1,0 +1,1 @@
+Now, the decompiled .txt file will NOT be saved as "Image.txt"; instead, it will be named after your image—but without the file extension at the end.
