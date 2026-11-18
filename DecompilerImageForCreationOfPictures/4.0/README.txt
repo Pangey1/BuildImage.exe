@@ -4,7 +4,7 @@ In version **4.0**, support for **GIF animation decompilation** and an **instant
 
 ## Requirements
 To decompile **videos** and **GIF animations**, you will need `ffmpeg.exe`.
-* **Download `ffmpeg.exe`:** [Yandex Disk](https://yandex.ru)
+* **Download `ffmpeg.exe`:** [Yandex Disk](https://disk.yandex.ru/d/O8CSv2tNEe9Buw)
 
 *(Note: `ffmpeg.exe` is not required when decompiling static images).*
 
